@@ -1,0 +1,14 @@
+C:\Users\cnalli\AppData\Local\Programs\Python\Python36-32\python.exe D:/PythonProjects/AddressClean/CaiNiaoAPI.py
+['00921014', '常州市新北区通江中路600号13585452344 & 13357881212'] {'success': False, 'errorCode': 'S01', 'errorMsg': '非法的XML/JSON traceId:0b83e3b915250977440717770e98cd'}
+
+
+['00921015', '江苏省昆山市经济开发区三巷路409号177 5122 9894 & 177 0626 9297.'] {'success': False, 'errorCode': 'S01', 'errorMsg': '非法的XML/JSON traceId:0b8395cf15251000490828915e44d6'}
+['010513    ', '宁波市海曙区鄞奉路469弄17号<3-18> '] {'data': [{'address': '宁波市海曙区西门口南都花城桂花园内', 'lng': '121.52', 'town': '段塘街道', 'city': '宁波市', 'cityId': '330200', 'townId': '330203007', 'detailAddr': '西门口南都花城桂花园内', 'districtId': '330203', 'district': '海曙区', 'id': '330203007', 'prov': '浙江省', 'provId': '330000', 'lat': '29.86'}], 'status': '1'}
+['002227    ', '宁波市江北区范江岸路158号<2- 3>-<2-4 > '] {'success': False, 'errorCode': 'S01', 'errorMsg': '非法的XML/JSON traceId:0b8f4f6015251011909258260eb86e'}
+['004451    ', '濮院镇毛衫城工业园区 '] {'data': [{'detailAddr': '毛衫城工业园区', 'districtId': '659002', 'address': '濮院镇毛衫城工业园区', 'lng': '0.00', 'town': '工业园区', 'district': '阿拉尔市', 'id': '659002402', 'cityId': '0', 'townId': '659002402', 'prov': '新疆维吾尔自治区', 'provId': '650000', 'lat': '0.00'}], 'status': '1'}
+['00168502', '苏州工业园区苏虹中路306号华奕天合工业坊1号&2号厂房'] {'data': [], 'status': '1'}
+['00168503', '芜湖市经济技术开发区银湖北路27号S&A研发中心'] {'data': [{'address': '芜湖市经济技术开发区银湖北路237号', 'lng': '118.37', 'town': '龙山街道', 'city': '芜湖市', 'cityId': '340200', 'townId': '340207006', 'detailAddr': '银湖北路237号', 'districtId': '340207', 'district': '鸠江区', 'id': '340207006', 'prov': '安徽省', 'provId': '340000', 'lat': '31.41'}], 'status': '1'}
+['00364002', '武汉经济技术开发区民营工业科技园南区20号厂房<收货窗口时间为周五上午>'] {'data': [{'address': '武汉经济技术开发区莲湖路35号', 'lng': '114.14', 'town': '沌口街街道', 'city': '武汉市', 'cityId': '420100', 'townId': '420114070', 'detailAddr': '莲湖路35号', 'districtId': '420114', 'district': '蔡甸区', 'id': '420114070', 'prov': '湖北省', 'provId': '420000', 'lat': '30.46'}], 'status': '1'}
+['000633    ', '周巷镇工业园区 '] {'data': [{'detailAddr': '周巷镇工业园区', 'districtId': '429004', 'address': '周巷镇工业园区', 'lng': '0.00', 'town': '工业园区', 'district': '仙桃市', 'id': '429004400', 'cityId': '0', 'townId': '429004400', 'prov': '湖北省', 'provId': '420000', 'lat': '0.00'}], 'status': '1'}
+
+Process finished with exit code 0
