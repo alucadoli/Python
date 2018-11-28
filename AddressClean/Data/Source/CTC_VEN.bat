@@ -1,1 +1,0 @@
-py.exe D:\PythonProjects\AddressClean\CaiNiaoAPI.py -s "D:\PythonProjects\AddressClean\Data\Source\CTC_VEN.xlsx" -t "CTC" -d "D:\PythonProjects\AddressClean\Data\Dest\CTC_VEN_D.xlsx"
